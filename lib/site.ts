@@ -9,8 +9,7 @@ export const site = {
   projectEn: "Solana East Lane",
   developer: "أورا للتطوير العقاري",
   developerEn: "ORA Developers",
-
-  phone: "01038154693⁩",
+phone: "01038154693⁩",
   phoneIntl: "+201038154693",
   phoneDisplay: "01038154693",
   whatsapp: "201038154693",
